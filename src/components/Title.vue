@@ -4,15 +4,16 @@
 
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
 
 export default {
-  name: "Title"
-  }
+    name: "Title"
+}
 </script>
 
 <style>
-    h1 {
-        font-size: 40px;
-    }
+h1 {
+    margin: 30px;
+    font-size: 50px;
+    color: rgb(21, 57, 122);
+}
 </style>
